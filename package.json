@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.9.3",
+    "node": "^18.20.0",
+    "nodemon": "^3.1.0"
+  },
+  "name": "node_mysql",
+  "version": "1.0.0",
+  "main": "appMain.js",
+  "scripts": {
+    "start": "node appMain.js",
+    "dev": "nodemon appMain"
+  },
+  "author": "mahendra",
+  "license": "ISC",
+  "description": ""
+}
